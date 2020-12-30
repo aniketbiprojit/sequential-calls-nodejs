@@ -2,8 +2,8 @@
 
 ## Sequential Processing in non-blocking code
 
-Run `node ./test.js`
-Build `tsc -p .`
+-   Run `node ./test.js`
+-   Build `tsc -p .`
 
 ## TODO
 
